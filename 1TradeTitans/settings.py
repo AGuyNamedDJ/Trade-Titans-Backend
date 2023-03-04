@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'account',
     'education',
     'market',
-    'trading',
+    'trading'
 
 
 ]
